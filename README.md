@@ -165,7 +165,7 @@ The dataset used in this project is available on Kaggle. Download the dataset an
 
 1. Clone the repository to your local machine:
 
-_git clone https://github.com/taaranguyen/Amazon-data-analysis-project_
+_git clone https://github.com/taaranguyen/Amazon-data-analysis-project.git_
 
 2. Navigate to the project directory:
 
